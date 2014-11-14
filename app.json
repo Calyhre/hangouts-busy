@@ -1,0 +1,7 @@
+{
+  "name": "Hangouts-Busy",
+  "description": "A Hangouts auto-reply bot.",
+  "repository": "https://github.com/Calyhre/hangouts-busy",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "hangouts", "bot"]
+}

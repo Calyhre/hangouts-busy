@@ -1,0 +1,16 @@
+{
+  "name": "hangouts-busy",
+  "version": "0.0.1",
+  "description": "A Hangouts auto-reply bot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Calyhre",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^0.4.0",
+    "hangouts-bot": "^0.1.0"
+  }
+}
