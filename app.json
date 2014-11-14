@@ -3,5 +3,20 @@
   "description": "A Hangouts auto-reply bot.",
   "repository": "https://github.com/Calyhre/hangouts-busy",
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "hangouts", "bot"]
+  "keywords": ["node", "hangouts", "bot"],
+  "success_url": "/",
+  "env": {
+    "HANGOUT_MESSAGE": {
+      "description": "The auto reply message",
+      "value": "I'm not available on Hangouts, and I may never see this message. Please send me an email."
+    },
+    "HANGOUT_USER": {
+      "description": "Your Hangouts email",
+      "value": ""
+    },
+    "HANGOUT_PASSWORD": {
+      "description": "Your Hangouts password",
+      "value": ""
+    }
+  }
 }
