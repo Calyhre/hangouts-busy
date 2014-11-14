@@ -6,15 +6,15 @@
   "keywords": ["node", "hangouts", "bot"],
   "success_url": "/",
   "env": {
-    "HANGOUT_MESSAGE": {
+    "HANGOUTS_MESSAGE": {
       "description": "The auto reply message",
       "value": "I'm not available on Hangouts, and I may never see this message. Please send me an email."
     },
-    "HANGOUT_USER": {
+    "HANGOUTS_USER": {
       "description": "Your Hangouts email",
       "value": ""
     },
-    "HANGOUT_PASSWORD": {
+    "HANGOUTS_PASSWORD": {
       "description": "Your Hangouts password",
       "value": ""
     }
