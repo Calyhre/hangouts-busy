@@ -1,4 +1,4 @@
-Hangouts-busy
+[DEPRECATED] Hangouts-busy
 ====
 
 A small bot to reply automatically on every message you will receive on Hangouts.
